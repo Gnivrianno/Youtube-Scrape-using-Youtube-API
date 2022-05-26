@@ -10,3 +10,9 @@ then the result will be imported into a csv file
 the main code is ScrapeComments.ipynb
 
 youtubechannelsanalysis.ipynb is a playground to expand for further analysis
+
+To Do: 
+
+- Use tableau to visualize the data
+- Use automation for data collection
+- Automate the visualization     
