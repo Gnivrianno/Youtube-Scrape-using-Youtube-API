@@ -8,3 +8,5 @@ it will read the video_id of the latest video that has been uploaded and scrape 
 then the result will be imported into a csv file
 
 the main code is ScrapeComments.ipynb
+
+youtubechannelsanalysis.ipynb is a playground to expand for further analysis
